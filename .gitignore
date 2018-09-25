@@ -1,0 +1,5 @@
+.idea/
+
+### Django ###
+*.pyc
+db.sqlite3
